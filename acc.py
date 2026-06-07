@@ -19,8 +19,8 @@ import telebot
 from telebot.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 # ============ CONFIGURATION ============
-BOT_TOKEN = "8282773912:AAEV437uHsYIwHS4L1fJmbO4lu4K1IIE43k"
-ADMIN_IDS = [6299808404]
+BOT_TOKEN = "8983096643:AAG_n4NAd8ndyoaw-IvyGVR1oiLZwdt0msU"
+ADMIN_IDS = [8731647972]
 
 # ============ FOOTER & ANIME PERSONALITY ============
 def footer():
